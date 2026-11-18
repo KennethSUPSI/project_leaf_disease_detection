@@ -2,10 +2,12 @@
 fashion/
 
 # Dataset
-DeepFashion2 Resized/
+leaf_disease_segmentation/
 
 # Python / Jupyter / IDE
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-.idea/
+.idea
+*.keras
+*.h5
