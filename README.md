@@ -1,1 +1,1 @@
-# project_deep_fashion_detection
+# project_leaf_disease_detection
